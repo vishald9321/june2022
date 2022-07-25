@@ -10,7 +10,7 @@ public class test1
 		int b=40;
 	        int c=50;
 		int multi=a*b*c;
-		System.out.println(sum);
+		System.out.println(multi);
 		
 	}
 }
