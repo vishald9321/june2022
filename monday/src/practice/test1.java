@@ -8,7 +8,8 @@ public class test1
 
 		int a=20;
 		int b=40;
-		int sum=a+b;
+	        int c=50;
+		int multi=a*b*c;
 		System.out.println(sum);
 		
 	}
